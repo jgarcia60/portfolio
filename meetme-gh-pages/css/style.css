@@ -2474,9 +2474,9 @@ h6 {
 ============================================================================================ */
 .welcome_inner .welcome_img {
   background: #eeeeee;
-  margin-left: 40px;
-  padding-left: 30px;
-  padding-right: 30px;
+  margin-left: 35px;
+  padding-left: 25px;
+  padding-right: 25px;
   padding-bottom: 30px; }
   .welcome_inner .welcome_img img {
     margin-top: -30px; }
@@ -2488,7 +2488,7 @@ h6 {
   margin-bottom: 18px;
   text-transform: uppercase; }
 .welcome_text p {
-  max-width: 495px;
+  max-width: 550px;
   font-family: "Roboto", sans-serif;
   margin-bottom: 40px; }
 
@@ -2901,7 +2901,7 @@ h6 {
   background: #000; }
 
 .f_title {
-  margin-bottom: 35px; }
+  margin-bottom: 10px; }
   .f_title h3 {
     color: #fff;
     font-size: 18px;
@@ -2914,7 +2914,7 @@ h6 {
   line-height: 24px;
   font-family: "Roboto", sans-serif;
   color: #777777;
-  margin-bottom: 30px; }
+  margin-bottom: 10px; }
   .ab_widget p a {
     color: #766dff; }
   .ab_widget p + p {
@@ -2927,7 +2927,7 @@ h6 {
     line-height: 24px;
     font-family: "Roboto", sans-serif;
     color: #777777;
-    margin-bottom: 15px; }
+    margin-bottom: 0px; }
   .news_widget .input-group input {
     height: 40px;
     background: transparent;
